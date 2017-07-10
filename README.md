@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-Used for copyright purposes
+```ruby
+GalpinVeiwTool::Renderer.copyright 'Maxwell Galpin', 'All rights Reserved'
+```
 
 ## Development
 
